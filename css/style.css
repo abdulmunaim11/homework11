@@ -1,0 +1,18 @@
+h1{
+	color:pink;
+}
+
+.heading_1{
+	width: 200px;
+	height: 200px
+}
+
+#text11{
+	border: 3px dotted blueviolet;
+}
+
+.box{
+	width: 400px;
+	height: 300px;
+	color: pink;
+}
